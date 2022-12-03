@@ -1,2 +1,5 @@
 # report-AI
-New Function
+- 怜の新機能のレポート機能のコードです。
+- TypeScriptで書きます
+# いつ完成するの？
+- 気分次第
